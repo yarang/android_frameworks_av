@@ -94,7 +94,6 @@ LOCAL_SHARED_LIBRARIES := \
         libmedia \
         libmediautils \
         libnetd_client \
-        libopus \
         libsonivox \
         libssl \
         libstagefright_omx \
